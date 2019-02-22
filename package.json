@@ -1,0 +1,19 @@
+{
+  "name": "yt-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wetransfer/js-sdk": "^1.1.0",
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "filepond": "^3.7.6",
+    "fs": "0.0.1-security",
+    "youtube-dl": "^1.12.2"
+  }
+}
